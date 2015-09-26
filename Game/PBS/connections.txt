@@ -28,3 +28,13 @@
 41,North,0,40,South,0
 # Route 5 (41) - Route 6 (45)
 41,South,6,45,North,0
+# Route 1a (Velocity) (84) - Route 1b (Velocity) (83)
+84,East,12,83,West,0
+# Amaranth Bay (Velocity) (85) - Route 1b (Velocity) (83)
+85,South,0,83,North,0
+# Amaranth Bay (Velocity) (85) - Route 1a (Velocity) (84)
+85,West,48,84,East,0
+# Majorelle Village (Velocity) (80) - Route 1a (Velocity) (84)
+80,East,0,84,West,3
+# Route1a (debugging) (89) - Majorelle (debugging) (88)
+89,West,3,88,East,0
